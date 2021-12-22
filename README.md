@@ -182,3 +182,12 @@ nop 4
 ```
 
 Prints the result of A * B.
+
+# Interpreter
+
+To use the interpreter, just run the file `main.py` inside the `Interpreter` folder with the Echo code as its first argument :
+```
+python3 Interpreter/main.py examples/fibonacci.ech
+```
+Another argument can be added : `-p` (or `--printstyle`) which can have one of two values : `ascii` or `numbers`. It just dictates how the output is presented to the user.
+It is optional, and its default value is `ascii`.
