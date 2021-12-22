@@ -1,0 +1,26 @@
+send 1 1 72
+send 2 1 101
+print
+print
+send 3 2 108
+wall 1 1
+print
+send 1 1 111
+print
+print
+send 1 1 44
+send 2 1 32
+print
+print
+send 1 1 119
+send 2 1 111
+print
+print
+send 1 1 114
+send 2 1 108
+print
+print
+send 1 1 100
+send 2 1 33
+print
+print

@@ -1,0 +1,13 @@
+send 2 4 1
+nop
+
+for 13 9
+predirect 8 5
+nop 5
+redirect 1 8
+nop	3
+redirect 6 9
+wall 4 3
+nop 4
+redirect 2 3
+nop 5

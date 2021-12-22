@@ -1,0 +1,27 @@
+// A
+send 2 3 2
+nop
+send 8 2 255
+// B
+send 1 4 5
+
+
+nop 2
+for 255 14
+
+redirect 6 12
+wall 4 1
+
+condition 2 0 5
+nop 2
+redirect 3 6
+wall 2 1
+print
+exit
+
+nop
+send 8 4 255
+redirect 3 6
+wall 2 1
+redirect 4 6
+nop 4
